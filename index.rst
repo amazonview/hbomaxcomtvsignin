@@ -10,7 +10,7 @@ How To Sign In HBO Max On TV
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_37.png
    :width: 350px
    :align: center
    :height: 100px
