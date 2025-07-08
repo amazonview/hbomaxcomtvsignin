@@ -1,5 +1,5 @@
 ##################
-How To Sign In HBO Max On TV
+"Step-by-Step Guide to Signing In to HBO Max on TV"
 ##################
 
 .. meta::
